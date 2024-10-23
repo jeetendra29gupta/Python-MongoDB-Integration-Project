@@ -1,0 +1,8 @@
+pip
+setuptools
+wheel
+
+python-dotenv
+requests
+
+pymongo
